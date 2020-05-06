@@ -1,0 +1,9 @@
+C:\Users\felipe.souza\source\repos\AppGames\AppGames.Entidades\bin\Debug\netstandard2.0\AppGames.Entidades.deps.json
+C:\Users\felipe.souza\source\repos\AppGames\AppGames.Entidades\bin\Debug\netstandard2.0\AppGames.Entidades.dll
+C:\Users\felipe.souza\source\repos\AppGames\AppGames.Entidades\bin\Debug\netstandard2.0\AppGames.Entidades.pdb
+C:\Users\felipe.souza\source\repos\AppGames\AppGames.Entidades\obj\Debug\netstandard2.0\AppGames.Entidades.csprojAssemblyReference.cache
+C:\Users\felipe.souza\source\repos\AppGames\AppGames.Entidades\obj\Debug\netstandard2.0\AppGames.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\felipe.souza\source\repos\AppGames\AppGames.Entidades\obj\Debug\netstandard2.0\AppGames.Entidades.AssemblyInfoInputs.cache
+C:\Users\felipe.souza\source\repos\AppGames\AppGames.Entidades\obj\Debug\netstandard2.0\AppGames.Entidades.AssemblyInfo.cs
+C:\Users\felipe.souza\source\repos\AppGames\AppGames.Entidades\obj\Debug\netstandard2.0\AppGames.Entidades.dll
+C:\Users\felipe.souza\source\repos\AppGames\AppGames.Entidades\obj\Debug\netstandard2.0\AppGames.Entidades.pdb

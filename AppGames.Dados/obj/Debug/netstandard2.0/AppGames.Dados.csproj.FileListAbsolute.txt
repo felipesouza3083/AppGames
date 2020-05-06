@@ -1,0 +1,12 @@
+C:\Users\felipe.souza\source\repos\AppGames\AppGames.Dados\bin\Debug\netstandard2.0\AppGames.Dados.deps.json
+C:\Users\felipe.souza\source\repos\AppGames\AppGames.Dados\bin\Debug\netstandard2.0\AppGames.Dados.dll
+C:\Users\felipe.souza\source\repos\AppGames\AppGames.Dados\obj\Debug\netstandard2.0\AppGames.Dados.AssemblyInfoInputs.cache
+C:\Users\felipe.souza\source\repos\AppGames\AppGames.Dados\obj\Debug\netstandard2.0\AppGames.Dados.AssemblyInfo.cs
+C:\Users\felipe.souza\source\repos\AppGames\AppGames.Dados\obj\Debug\netstandard2.0\AppGames.Dados.csprojAssemblyReference.cache
+C:\Users\felipe.souza\source\repos\AppGames\AppGames.Dados\obj\Debug\netstandard2.0\AppGames.Dados.csproj.CoreCompileInputs.cache
+C:\Users\felipe.souza\source\repos\AppGames\AppGames.Dados\bin\Debug\netstandard2.0\AppGames.Dados.pdb
+C:\Users\felipe.souza\source\repos\AppGames\AppGames.Dados\bin\Debug\netstandard2.0\AppGames.Entidades.dll
+C:\Users\felipe.souza\source\repos\AppGames\AppGames.Dados\bin\Debug\netstandard2.0\AppGames.Entidades.pdb
+C:\Users\felipe.souza\source\repos\AppGames\AppGames.Dados\obj\Debug\netstandard2.0\AppGames.Dados.csproj.CopyComplete
+C:\Users\felipe.souza\source\repos\AppGames\AppGames.Dados\obj\Debug\netstandard2.0\AppGames.Dados.dll
+C:\Users\felipe.souza\source\repos\AppGames\AppGames.Dados\obj\Debug\netstandard2.0\AppGames.Dados.pdb
