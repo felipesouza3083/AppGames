@@ -143,3 +143,6 @@ C:\Users\felipe.souza\source\repos\AppGames\AppGames.App\bin\Debug\netcoreapp3.1
 C:\Users\felipe.souza\source\repos\AppGames\AppGames.App\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\felipe.souza\source\repos\AppGames\AppGames.App\obj\Debug\netcoreapp3.1\AppGames.App.csproj.CoreCompileInputs.cache
 C:\Users\felipe.souza\source\repos\AppGames\AppGames.App\obj\Debug\netcoreapp3.1\AppGames.App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\felipe.souza\source\repos\AppGames\AppGames.App\obj\Debug\netcoreapp3.1\Razor\Views\Plataforma\Index.cshtml.g.cs
+C:\Users\felipe.souza\source\repos\AppGames\AppGames.App\obj\Debug\netcoreapp3.1\Razor\Views\Plataforma\Salvar.cshtml.g.cs
+C:\Users\felipe.souza\source\repos\AppGames\AppGames.App\obj\Debug\netcoreapp3.1\Razor\Views\Plataforma\Editar.cshtml.g.cs

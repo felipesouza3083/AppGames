@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "Editar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model AppGames.App.Models.Plataforma.PlataformaEdicaoViewModel
+
+<form class="form-horizontal" method="post" asp-controller="Plataforma" asp-action="Editar">
+    <input type="hidden" asp-for="IdPlataforma" />
+
+    <div class="form-group">
+        <label class="col-md-1 control-lbel" for="Nome">Nome</label>
+        <div class="col-md-2">
+            <input type="text" class="form form-control" asp-for="Nome" />
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-2">
+            <input type="submit" value="Editar" class="btn btn-success" />
+            @ViewBag.Mensagem
+            <a href="/Plataforma/Index" class="btn btn-default">Voltar</a>
+        </div>
+    </div>
+</form>

@@ -18,8 +18,10 @@ namespace AppGames.Dados.Context
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfiguration(new PlataformaMap());
+            modelBuilder.ApplyConfiguration(new GameMap());
         }
 
         public DbSet<Plataforma> Plataforma { get; set; }
+        public DbSet<Game> Game { get; set; }
     }
 }

@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using AppGames.Dados.Context;
+using AppGames.Dados.Contracts;
+using AppGames.Dados.Persistence;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -24,6 +26,9 @@ namespace AppGames.App
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddTransient<IPlataformaRepository, PlataformaRepository>();
+            services.AddTransient<IGameRepository, GameRepository>();
+
             var connectionString = Configuration.GetConnectionString("Conexao");
             services.AddDbContext<ApplicationDbContext>(
                 options => options.UseSqlServer(connectionString)

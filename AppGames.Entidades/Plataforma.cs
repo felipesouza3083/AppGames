@@ -9,6 +9,7 @@ namespace AppGames.Entidades
         public int IdPlataforma { get; set; }
         public string Nome { get; set; }
 
+        public IList<Game> Games { get; set; }
         public Plataforma()
         {
 

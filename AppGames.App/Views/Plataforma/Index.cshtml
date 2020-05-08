@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model List<AppGames.App.Models.Plataforma.PlataformaConsultaViewModel>
+
+<a href="/Plataforma/Salvar" class="btn btn-success">Nova Plataforma</a>
+<br />
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.Nome
+                </td>
+                <td>
+                    <a href="/Plataforma/Editar/@item.IdPlataforma" class="btn btn-warning btn-sm">Editar</a>
+                    <a href="/Plataforma/Deletar/@item.IdPlataforma" class="btn btn-danger btn-sm">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
